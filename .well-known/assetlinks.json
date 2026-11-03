@@ -1,8 +1,11 @@
 [{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.caleballenb.twa",
-        "sha256_cert_fingerprints": ["6D:46:D5:52:F7:BF:DC:F5:2C:89:30:D5:15:20:C2:DA:FC:29:D1:1C:CD:7C:AB:6A:E2:E3:40:74:DA:E7:F1:4F"]
-      }
-    }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.caleballenb.twa",
+    "sha256_cert_fingerprints": [
+      "16:4D:EC:B3:05:A8:89:6C:76:4E:2C:84:94:DE:62:BD:B4:D5:2D:7D:E2:F6:81:9C:CD:CD:05:8C:A1:38:18:E3",
+      "6D:46:D5:52:F7:BF:DC:F5:2C:89:30:D5:15:20:C2:DA:FC:29:D1:1C:CD:7C:AB:6A:E2:E3:40:74:DA:E7:F1:4F"
+    ]
+  }
+}]
